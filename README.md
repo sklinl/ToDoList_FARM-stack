@@ -8,7 +8,7 @@ docker compose up -d
 ```
 ![Image of mongo start](./img/mongo_docker.PNG)
 create Databases & todo collection
-![Image of mongo start](../img/mongo_create_db.PNG)
+![Image of mongo start](./img/mongo_create_db.PNG)
 
 
 ## FastAPI
@@ -21,11 +21,11 @@ Start main.py
 uvicorn main:app --reload
 ```
 After start it:
-![Image of FastAPI start](../img/start.PNG)
+![Image of FastAPI start](./img/start.PNG)
 
 ### FastAPI
 Auto gen API documents
-![Image of FastAPI docs](../img/auto_gen_docs.PNG)
+![Image of FastAPI docs](./img/auto_gen_docs.PNG)
 
 Post Result
-![Image of mongo get](../img/mongo_get.PNG)
+![Image of mongo get](./img/mongo_get.PNG)
